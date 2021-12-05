@@ -3,4 +3,4 @@
 ローカルリポで変更  
 conflict branchで変更
 githubmで変更
-main branchで更新 
+rebase-conflictで更新 
