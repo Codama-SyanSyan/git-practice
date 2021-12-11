@@ -4,3 +4,4 @@
 conflict branchで変更
 githubmで変更
 rebase-conflictで更新 
+stashコンフリクト用
